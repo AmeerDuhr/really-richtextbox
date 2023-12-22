@@ -1,7 +1,7 @@
 # ReallyRichTextBox
 A user control in WPF that simply represents a RichTextBox with a really simple toolbar binded to native ApplicationCommands and EditingCommands.
 
-![image](./screenshot.png)
+![image](./screenshot.PNG)
 
 ## Usage
 <ol>
