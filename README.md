@@ -13,18 +13,22 @@ A user control in WPF that simply represents a RichTextBox with a really simple 
 <li>Click on `Edit Project File`</li>
 <li>Copy then add this snippet after the PropertyGroup inside the file you've just opened:
 <br>
+	
 ```xml
 	<ItemGroup>
 		<Resource Include="Images\*.png" />
 	</ItemGroup>
 ```
+
 </li>
 </ul>
 </li>
 <li>Then simply use the `ReallyRichTextBox` as a UserControl:
 <br>
+	
 ```xml
 <local:ReallyRichTextBox />
 ```
+
 </li>
 </ol>
